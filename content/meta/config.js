@@ -1,7 +1,7 @@
 module.exports = {
-  siteTitle: "Teodoro Meyerhoff's Blog", // <title>
-  shortSiteTitle: "Teo's Website and Blog", // <title> ending for posts and pages
-  siteDescription: "TeoBlog",
+  siteTitle: "Teodoro Meyerhoff", // <title>
+  shortSiteTitle: "Teodoro Meyerhoff", // <title> ending for posts and pages
+  siteDescription: "Teodoro Meyerhoff",
   siteUrl: "https://teodoromeyerhoff.com",
   // pathPrefix: "",
   siteImage: "preview.jpg",
@@ -13,11 +13,11 @@ module.exports = {
 
   /* info */
   headerTitle: "Teodoro Meyerhoff",
-  headerSubTitle: "TeoBlod",
+  headerSubTitle: "TeoBlog",
 
   /* manifest.json */
-  manifestName: "TeoBlog - a GatsbyJS starter",
-  manifestShortName: "TeoBlog", // max 12 characters
+  manifestName: "Teodoro Meyerhoff",
+  manifestShortName: "Teo", // max 12 characters
   manifestStartUrl: "/index.html",
   manifestBackgroundColor: "white",
   manifestThemeColor: "#666",
