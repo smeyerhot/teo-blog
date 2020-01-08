@@ -1,7 +1,7 @@
 module.exports = {
-  siteTitle: "Teodoro Meyerhoff", // <title>
-  shortSiteTitle: "Teodoro Meyerhoff", // <title> ending for posts and pages
-  siteDescription: "Teodoro Meyerhoff",
+  siteTitle: "teodoro meyerhoff", // <title>
+  shortSiteTitle: "teodoro teyerhoff", // <title> ending for posts and pages
+  siteDescription: "teodoro meyerhoff",
   siteUrl: "https://teodoromeyerhoff.com",
   // pathPrefix: "",
   siteImage: "preview.jpg",
@@ -16,7 +16,7 @@ module.exports = {
   headerSubTitle: "TeoBlog",
 
   /* manifest.json */
-  manifestName: "Teodoro Meyerhoff",
+  manifestName: "teodoro meyerhoff",
   manifestShortName: "Teo", // max 12 characters
   manifestStartUrl: "/index.html",
   manifestBackgroundColor: "white",
